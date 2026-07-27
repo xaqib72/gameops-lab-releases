@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>GAMEOPS LAB Updates</title>
+    <link>https://github.com/xaqib72/gameops-lab-releases/releases</link>
+    <description>Signed installer releases for GAMEOPS LAB.</description>
+
+    <item>
+      <title>GAMEOPS LAB 3.0.0</title>
+
+      <sparkle:releaseNotesLink>
+        https://github.com/xaqib72/gameops-lab-releases/releases/tag/v3.0.0
+      </sparkle:releaseNotesLink>
+
+      <pubDate>Sun, 27 Jul 2026 00:00:00 +0000</pubDate>
+
+      <enclosure
+        url="https://github.com/xaqib72/gameops-lab-releases/releases/download/v3.0.0/GameOpsLab-Setup-3.0.0.exe"
+        sparkle:version="3.0.0"
+        sparkle:shortVersionString="3.0.0"
+        sparkle:edSignature="BsJ7MVXjBoM1u95MquaLZ2vPnSN5hoQFuX4PcCDXeNAosOrJ8v5gMqI0Ki+jsNRNMCOgLW5Rl1PzH4Mmd2GTBA=="
+	length="89153952"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
