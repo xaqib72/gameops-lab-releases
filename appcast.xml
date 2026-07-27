@@ -7,6 +7,24 @@
     <description>Signed installer releases for GAMEOPS LAB.</description>
 
     <item>
+      <title>GAMEOPS LAB 3.1.0</title>
+
+      <sparkle:releaseNotesLink>
+        https://github.com/xaqib72/gameops-lab-releases/releases/tag/v3.1.0
+      </sparkle:releaseNotesLink>
+
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+
+      <enclosure
+        url="https://github.com/xaqib72/gameops-lab-releases/releases/download/v3.1.0/GameOpsLab-Setup-3.1.0.exe"
+        sparkle:version="3.1.0"
+        sparkle:shortVersionString="3.1.0"
+        sparkle:edSignature="WTihsE8ctjo8BtArWk4EROyyEFfRlx4LxPzKUiM8lag4R8HelbZz7UKr9NbqglflGinvCh8omjHfESMQJqICAQ=="
+        length="89291654"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>GAMEOPS LAB 3.0.0</title>
 
       <sparkle:releaseNotesLink>
@@ -20,8 +38,9 @@
         sparkle:version="3.0.0"
         sparkle:shortVersionString="3.0.0"
         sparkle:edSignature="BsJ7MVXjBoM1u95MquaLZ2vPnSN5hoQFuX4PcCDXeNAosOrJ8v5gMqI0Ki+jsNRNMCOgLW5Rl1PzH4Mmd2GTBA=="
-	length="89153952"
+        length="89153952"
         type="application/octet-stream" />
     </item>
+
   </channel>
 </rss>
