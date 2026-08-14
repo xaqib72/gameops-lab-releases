@@ -1,11 +1,11 @@
-﻿{
-    "version":  "4.0.1",
-    "notes":  "GAMEOPS LAB 4.0.1 direct Firebase desktop migration.",
-    "pub_date":  "2026-08-14T19:55:12Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWk5ONkQ2RGErcHVoWkhEYWsxSDkrcFc0WHJacUJRNzVjM2xQK1M0NExIejFvZXhvRzZrbm5PaHdXc3M4dHlGR1g4MW92WXdqc3JUMTkxWFBVb1d1Q0oxZ2JGM1ROU1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzM3Mjc5CWZpbGU6R0FNRU9QUyBMQUJfNC4wLjFfeDY0LXNldHVwLmV4ZQpXUWJ4ZmxwaDh1ZnVhTnNlSkc0aXZNamNPYzBrUlRLaGlheWtOQWkxVUkxTW9RU0tVOXZKSE5vbDNBZ2txdWxvRnQzeXBwNjVMOHNTb2VaMnBvM0tEUT09Cg==",
-                                             "url":  "https://github.com/xaqib72/gameops-lab-releases/releases/download/v4.0.1/GAMEOPS%20LAB_4.0.1_x64-setup.exe"
-                                         }
-                  }
+{
+  "version": "4.0.3",
+  "notes": "GAMEOPS LAB 4.0.3 fixes GAMEOPS ADMIN command completion handling.",
+  "pub_date": "2026-08-14T22:34:54Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWk5ONkQ2RGErcHNsTHVHNGsyUWpWNnFVRWFBaCs5YnN5YmhCTzZUZnBQUHlsbEk4UTIrZ1MxY0xvc0Q2aFZkVmQ2N21Ub0F5UXB5eW9oWjhabTlQRmdzbFBIdTBBYkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzQ2ODY3CWZpbGU6R0FNRU9QUyBMQUJfNC4wLjNfeDY0LXNldHVwLmV4ZQpDd0wvUGh4MENqcHBtdkhkRDZWNHpWbzh2K2dCZkZUZHFndEViNzkzUjdpdnA5TG92cktHNmlMcGZHRUxHcVZJQ012RHYxM05ZOUVkQml4bzFQdjhDUT09Cg==",
+      "url": "https://github.com/xaqib72/gameops-lab-releases/releases/download/v4.0.3/GAMEOPS%20LAB_4.0.3_x64-setup.exe"
+    }
+  }
 }
