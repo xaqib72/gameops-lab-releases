@@ -1,11 +1,11 @@
 {
-  "version": "4.0.3",
-  "notes": "GAMEOPS LAB 4.0.3 fixes GAMEOPS ADMIN command completion handling.",
-  "pub_date": "2026-08-14T22:34:54Z",
+  "version": "4.0.4",
+  "notes": "GAMEOPS LAB 4.0.4 improves Spin, Egg Bag and Cashback reliability, retries and connection handling.",
+  "pub_date": "2026-08-16T00:55:43Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWk5ONkQ2RGErcHNsTHVHNGsyUWpWNnFVRWFBaCs5YnN5YmhCTzZUZnBQUHlsbEk4UTIrZ1MxY0xvc0Q2aFZkVmQ2N21Ub0F5UXB5eW9oWjhabTlQRmdzbFBIdTBBYkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzQ2ODY3CWZpbGU6R0FNRU9QUyBMQUJfNC4wLjNfeDY0LXNldHVwLmV4ZQpDd0wvUGh4MENqcHBtdkhkRDZWNHpWbzh2K2dCZkZUZHFndEViNzkzUjdpdnA5TG92cktHNmlMcGZHRUxHcVZJQ012RHYxM05ZOUVkQml4bzFQdjhDUT09Cg==",
-      "url": "https://github.com/xaqib72/gameops-lab-releases/releases/download/v4.0.3/GAMEOPS.LAB_4.0.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWk5ONkQ2RGErcHZIdXd0S0xJZUtZYnRiQ3NPalRxbStTb0pHaXFtUERBUG5wUlBveEc0WGFrNlF1UGhPZUE1clBZTWFXM3lISFVBNDlDODJLMkRIM1ljMDUrLy94U3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODQxNzMyCWZpbGU6R0FNRU9QUyBMQUJfNC4wLjRfeDY0LXNldHVwLmV4ZQo0TGtNRERyaUs1SjJaQ0JCUXRiTGw5SzhsZkFoMTZkb2xtV1RaUWRlRytRYVJXTGlPYzFaSmtvRW1qazNiYkR6c3dFditDcDB4RUtuNnEyRW84UG5BZz09Cg==",
+      "url": "https://github.com/xaqib72/gameops-lab-releases/releases/download/v4.0.4/GAMEOPS.LAB_4.0.4_x64-setup.exe"
     }
   }
 }
