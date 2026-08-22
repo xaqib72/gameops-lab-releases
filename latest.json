@@ -1,11 +1,11 @@
 {
-  "version": "4.0.4",
-  "notes": "GAMEOPS LAB 4.0.4 improves Spin, Egg Bag and Cashback reliability, retries and connection handling.",
-  "pub_date": "2026-08-16T00:55:43Z",
+  "version": "4.0.5",
+  "notes": "GAMEOPS LAB 4.0.5 removes module ID limits, keeps module settings during a session, and improves collection worker pacing and log display.",
+  "pub_date": "2026-08-22T11:18:03Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWk5ONkQ2RGErcHZIdXd0S0xJZUtZYnRiQ3NPalRxbStTb0pHaXFtUERBUG5wUlBveEc0WGFrNlF1UGhPZUE1clBZTWFXM3lISFVBNDlDODJLMkRIM1ljMDUrLy94U3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODQxNzMyCWZpbGU6R0FNRU9QUyBMQUJfNC4wLjRfeDY0LXNldHVwLmV4ZQo0TGtNRERyaUs1SjJaQ0JCUXRiTGw5SzhsZkFoMTZkb2xtV1RaUWRlRytRYVJXTGlPYzFaSmtvRW1qazNiYkR6c3dFditDcDB4RUtuNnEyRW84UG5BZz09Cg==",
-      "url": "https://github.com/xaqib72/gameops-lab-releases/releases/download/v4.0.4/GAMEOPS.LAB_4.0.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWk5ONkQ2RGErcHNQQm1taXBMZm9MMzI5M2U2Tm5rRi9yYjc3SHUwYVN2WUVGZEVJamRmY0xJMjBqeG5kbzNiR05aaDd6WkR5ZDZ2YW9IRnNXamNIUmlaUVkrSTN2VVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3Mzk3NDU1CWZpbGU6R0FNRU9QUyBMQUJfNC4wLjVfeDY0LXNldHVwLmV4ZQpJcUVsRmc4S3lYbFN6bk9hdWtqQTFYSjQwZXd3WTBoUW5sWExXMFFrRWRJcEVDaEREUFFCT25sdXFsTlcwZHdyM3RYMW9lMVgzcUQ4U0hMdDJYeU5DUT09Cg==",
+      "url": "https://github.com/xaqib72/gameops-lab-releases/releases/download/v4.0.5/GAMEOPS.LAB_4.0.5_x64-setup.exe"
     }
   }
 }
